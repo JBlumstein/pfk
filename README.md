@@ -2,6 +2,8 @@
 
 <hr>
 
+<p>Check out the Jupyter notebooks for work and analysis.
+
 <h2>Introduction</h2>
 
 <p>Pitchfork is a music review website that began in the late 1990s, famous for its witty album reviews (scored from 0.0 to 10.0 by 0.1 increments) and influence among serious music fans.
