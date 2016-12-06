@@ -86,5 +86,3 @@
 <h2>Conclusions</h2>
 
 <p>While Pitchfork rating is not as big an influence on Last.FM daily playcount as genre or date of release, for a majority of genres there is a statistically significant bump in playcount resulting from increases in Pitchfork rating when at the right hand side of the distribution. There appears to be on average an ~10% increase in Last.FM playcount, and a ~12% in Last.FM playcount adjusted by date of release, per 0.1 increase in Pitchfork rating. This bump varies by genre.
-
-<p>To see the entire analysis, <a href="https://github.com/JBlumstein/pfk">check out the Github repo</a>.
