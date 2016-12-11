@@ -1,6 +1,6 @@
 # Are Last.FM Playcounts Affected by Pitchfork Scores?:<br>A Data Analysis
 
-<p>Check out the Jupyter notebooks for work and analysis.
+<p>Check out the Jupyter notebooks in this github repo for work and analysis.
 
 <h2>Introduction</h2>
 
